@@ -18,3 +18,18 @@ Este repositório contém a modelagem de dados em XML e JSON para um exemplo de 
   </produto>
 </produtos>
 
+### JSON
+
+```json
+{
+  "produto": [
+    {
+      "id": "1",
+      "nome": "Camisa Polo",
+      "descricao": "Camisa polo de algodão",
+      "preco": 59.90,
+      "categoria": "Roupas",
+      "estoque": 100
+    }
+  ]
+}
