@@ -1,8 +1,8 @@
 {
   "openapi": "3.0.0",
   "info": {
-    "title": "API de Produtos",
-    "description": "API para gerenciar produtos de uma loja virtual, permitindo listar, adicionar e obter detalhes de produtos.",
+    "title": "API de Produto",
+    "description": "API para gerenciar produtos de uma loja virtual, permitindo listar, adicionar e obter detalhes do produto.",
     "version": "1.0.0"
   },
   "paths": {
