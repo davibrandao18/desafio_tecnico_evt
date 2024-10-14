@@ -17,6 +17,7 @@ Este repositório contém a modelagem de dados em XML e JSON para um exemplo de 
     <estoque>100</estoque>
   </produto>
 </produtos>
+```
 
 ### JSON
 
@@ -33,3 +34,4 @@ Este repositório contém a modelagem de dados em XML e JSON para um exemplo de 
     }
   ]
 }
+```
